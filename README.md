@@ -17,4 +17,4 @@ plugin insert converted text under cursor in current buffer.
 Copy file to your ~/.vim/plugins directory
 
 You can map it to a key e.g.
-    map <Leader>ii :call Img2Data()<CR>
+    map \<Leader\>ii :call Img2Data()<CR>
